@@ -1,0 +1,12 @@
+{
+  "name": "foundly-os",
+  "version": "3.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
